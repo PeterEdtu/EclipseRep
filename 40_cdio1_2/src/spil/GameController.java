@@ -5,7 +5,6 @@ import java.util.Locale;
 import java.util.Scanner;
 
 /**
- * dawddw
  * @author Daniel Larsen (s151641)
  * @author Daniel Anusic (s155005)
  * @version 1.0
